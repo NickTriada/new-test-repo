@@ -1,0 +1,6 @@
+C:\Users\NickTriada\Google Drive\new-test-repo.git\snake\bin\Debug\snake.exe.config
+C:\Users\NickTriada\Google Drive\new-test-repo.git\snake\bin\Debug\snake.exe
+C:\Users\NickTriada\Google Drive\new-test-repo.git\snake\bin\Debug\snake.pdb
+C:\Users\NickTriada\Google Drive\new-test-repo.git\snake\obj\Debug\snake.csprojResolveAssemblyReference.cache
+C:\Users\NickTriada\Google Drive\new-test-repo.git\snake\obj\Debug\snake.exe
+C:\Users\NickTriada\Google Drive\new-test-repo.git\snake\obj\Debug\snake.pdb
